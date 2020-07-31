@@ -1,6 +1,6 @@
 class Array:
     #The methods in this class are intended for use with the IPython console.
-    #IDE Used: Spyder (part of the Anaconda distribution)
+    #IDE Used: Spyder (part of the Anaconda distribution) is recommended to run it, but any Python IDE can be used
     
     def FindMaxValue(array,pos1,pos2):
         r = max(array[pos1:pos2]) #Find max value between given bounds
